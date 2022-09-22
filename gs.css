@@ -66,6 +66,18 @@
   .POI{
     font-style: italic;
   }
+  .POII:hover{
+        color: black;
+        background-color:aqua;
+        text-shadow: 12px 5px 3px red;
+        display: inline;
+  }
   .WIL{
     font-style: oblique;
+  }
+  .WILL:hover{
+        color: black;
+        background-color: peru;
+        text-shadow: 5px 5px 3px red;
+        display: inline;
   }
