@@ -1,0 +1,42 @@
+
+
+
+.speech {
+    font-size: 15px;
+    font-style: oblique
+  }
+
+  
+  .song{
+    font-size: 25px;
+    font-style: italic
+  }
+  .direction {
+    background-color: lightgoldenrodyellow;
+    
+  }
+  .direction:hover{
+    color: chartreuse;
+    font-size: 15px;
+    background-color: red;
+
+  }
+  
+
+  .DAM{
+    
+    font-size : 15px;
+    font-style : inherit
+
+  }
+
+  .MEN{
+    font-style: oblique;
+
+  }
+
+ .WOM{
+    font-style: normal;
+
+ }
+ 
