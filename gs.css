@@ -39,4 +39,26 @@
     font-style: normal;
 
  }
- 
+
+ #singers{
+    margin-top: 40px;
+    margin-left: 60px;
+    border: 20px solid palevioletred;
+    border-collapse: separate;
+    box-sizing: border-box;
+  }
+  #singers th{
+    color: tomato;
+    text-align: center;
+    padding: 10px;
+    border: 15px solid indigo;
+  }
+  #singers td{
+    color: lawngreen;
+    text-align: center;
+    padding: 5px;
+    border: 15px solid fuchsia;
+  }
+  #singers tr:nth-child(even){
+    background-color: crimson;
+  }
