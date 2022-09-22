@@ -62,3 +62,10 @@
   #singers tr:nth-child(even){
     background-color: crimson;
   }
+
+  .POI{
+    font-style: italic;
+  }
+  .WIL{
+    font-style: oblique;
+  }
